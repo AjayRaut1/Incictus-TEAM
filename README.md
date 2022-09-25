@@ -1,2 +1,2 @@
-# Incictus-TEAM
+# Invictus-TEAM
 ACM Convection : DevCup
